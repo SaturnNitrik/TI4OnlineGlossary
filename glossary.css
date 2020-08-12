@@ -39,16 +39,10 @@ html {
 body {
     background-color: #160298;
     margin: 2px;
-    /* background-image: url(img/bluespace.jpg); */
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
-    /* background-position: center; */
-    /* background-attachment: scroll; */
-    /* overflow: hidden; */
     background: url(img/bluespace.jpg) no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+    background-size: 100% 100%;
+    height: 100vh;
+    overflow: hidden;
     font-family: verdana;
     cursor: default;
     color: white;
